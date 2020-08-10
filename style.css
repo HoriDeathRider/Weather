@@ -13,14 +13,16 @@ body{
     height: 100vh;
 }
 
-.list__item{
+.list{
     width: 700px;
-    margin: auto;
+    margin: 0 auto;
     font-size: 0;
+    padding-bottom: 20px;
 }
 
-h1{
-    padding-left: 405px;
+.wrapper{
+    width: 700px;
+    margin: 0 auto;
 }
 
 ul:hover li{
@@ -41,55 +43,51 @@ li{
     border: 2px solid white;
 }
 
-.box1{   
+.city1{   
     background-color: #0273B2;
     width: 50%;
 }
 
-.box2{
+.citycity2{
     background-color: #33CCCC;
 }
 
-.box3{
+.city3{
     background-color: #996699;
 }
 
-.box4{
+.city4{
     background-color: #C24747;
 }
 
-.box5{
+.city5{
     background-color: #E2674A;
 }
 
-.box6{
+.city6{
     background-color: #FFCC66;
 }
 
-.box7{
+.city7{
     background-color: #99CC99;
 }
 
-.box8{
+.city8{
     background-color: #669999;
 }
 
-.box9{
+.city9{
     background-color: #CC6699;
     width: 50%;
 }
 
-.box10{
+.city10{
     background-color: green;
 }
 
-.box11{
+.city11{
     background-color: #666692;
     width: 100%;
 }
 
-.ending{
-    padding-left: 405px;
-    padding-top: 21px
-}
 
